@@ -1,3 +1,6 @@
-## Hi there 👋
-## I am Nilabh Chaturvedy. This Github profile lists some of the projects I have done as part of my projects as well as in leisure time.
+# 👋 Hi there! I'm a data scientist passionate about turning data into actionable insights and intelligent solutions.
 
+📊 I enjoy working across the data pipeline—from cleaning and exploration to modeling and deploying ML solutions.
+🧠 My interests include machine learning, deep learning, data storytelling, and generative AI.
+🔬 Currently exploring Gener
+📈 Always open to collaborating on meaningful data-driven projects!
