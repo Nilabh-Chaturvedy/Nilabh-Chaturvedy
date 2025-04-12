@@ -2,5 +2,5 @@
 
 📊 I enjoy working across the data pipeline—from cleaning and exploration to modeling and deploying ML solutions.
 🧠 My interests include machine learning, deep learning, data storytelling, and generative AI.
-🔬 Currently exploring Gener
+🔬 Currently exploring GenAI and Agentic Agents. Project Coming soon ...
 📈 Always open to collaborating on meaningful data-driven projects!
